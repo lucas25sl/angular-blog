@@ -1,0 +1,40 @@
+
+.container__games{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-top: 30px;
+
+}
+
+.container__team-away{
+  margin-left: 20px;
+  display: flex;
+  flex-direction: row;
+}
+
+.container__team-home{
+  margin-right: 20px;
+  display: flex;
+  flex-direction: row;
+}
+
+.container__team-home > img{
+  width: 40px;
+  height: 40px;
+}
+
+.container__team-away > img{
+  width: 40px;
+  height: 40px;
+}
+
+.container_games_cup{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.game-cup{
+  margin-right: 8px;
+}

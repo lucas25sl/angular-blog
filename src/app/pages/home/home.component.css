@@ -5,3 +5,13 @@
   flex-direction: row;
   justify-content: center;
 }
+
+.nextgame >h1{
+  border: 1px solid white;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 40px;
+
+}
